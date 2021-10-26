@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Mừng cậu quay lại web cua 2 bon mình neee",
-  text2: "Anh có điều này muốn hỏi nee,em nhớ phải trả lời thật lòng nhaa.",
-  text3: "Vợ yêuu anhh nhiều nhiềuu lắm đúng hongg neee",
-  text4: "Minh phai tra loi that longg do nhaaaa:'3 ",
+  text1: "Chào mừng mình quay lại thế giới nhỏ của anh và em ❤️",
+  text2: "Anh có điều này muốn hỏi nè, em nhớ phải trả lời thật lòng nhaa.",
+  text3: "Vợ yêu anhh nhiều nhiều lắm đúng hong nee",
+  text4: "Minh phai tra loi that long do nhaaaa:'3 ",
   text5: "Con lau moi yeu anhh",
   text6: "Em yêu mình nhất trên đờiii <3",
-  text7: "Noi cho anh ly do minh yeu anh dii:'3",
-  text8: "Gửi cho anhh nee <3",
+  text7: "Noi cho anh ly do em yeu anh dii:'3",
+  text8: "Gửi cho anhh nee ❤️",
   text9: "Bởi vì anh là chồng em, anh luôn luôn dành cả trái tim anh để yêu em nhiều lắm đó nee. Anh thật sự, thật sự, thật sự thương em nhiều nhiều nhiềuuu lắm luôn",
-  text10: "Anh biết mà ^^ Anh Anh yêu cả ba mẹ con nhiều lắm nè ❤️",
+  text10: "Anh biết mà ^^ Anh mãi mãi thương cả ba mẹ con nhiều lắm ❤️",
   text11:
-    "Sau này dù có thế nào, bọn mình nhất định sẽ cùng nhau đi hết cả cuộc đời này đó nhaa. Mà vợ cũng đừng ngại thể hiện tình cảm cho anh nhiều lên nhee, cả thế giới của anhh",
-  text12: "Okii lunn <3",
+    'Sau này dù có thế nào, bọn mình nhất định sẽ cùng nhau đi hết cả cuộc đời này đó nhaa. Bọn mình cũng luôn yêu nhau nhiều hơn đó"3... neu co the thi minh hon hon anh nhieu hon nua nhe"3. Anh mãi mãi yêu em ❤️',
+  text12: "Okii luonn ❤️",
 };
 
 $(document).ready(function () {
